@@ -4,8 +4,8 @@ function sumaTres(x){
 
 sumaTres(5)
 
-function multiplicaCinco(y){
-    console.log(y*5)
+function multiplicaCuatro(y){
+    console.log(y*4)
 }
 
 multiplicaCinco(2)
